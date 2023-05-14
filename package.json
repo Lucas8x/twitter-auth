@@ -1,0 +1,14 @@
+{
+  "name": "twitter-auth",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "npm run start --workspace=frontend & npm run dev --workspace=backend"
+  },
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}

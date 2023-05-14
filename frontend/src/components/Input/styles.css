@@ -1,0 +1,19 @@
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  width: 100%;
+  gap: 0.2rem;
+}
+
+.text {
+  text-align: left;
+  font-weight: bold;
+}
+
+.input {
+  border-radius: 4px;
+  padding: 0.5rem;
+  outline: none;
+  border: none;
+}

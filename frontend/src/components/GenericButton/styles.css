@@ -1,0 +1,12 @@
+.genericButton {
+  width: fit-content;
+  border-radius: 8px;
+
+  padding: 1rem;
+
+  font-weight: bold;
+  font-size: 16px;
+
+  background-color: #2374e1;
+  color: #fff;
+}

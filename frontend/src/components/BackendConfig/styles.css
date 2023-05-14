@@ -1,0 +1,10 @@
+.backendContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem 0;
+  border: 1px solid #fff;
+  max-width: 550px;
+  width: 100%;
+}

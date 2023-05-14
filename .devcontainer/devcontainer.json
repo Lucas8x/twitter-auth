@@ -1,0 +1,11 @@
+{
+  "name": "Twitter Auth",
+  "portsAttributes": {
+    "3000": {
+      "label": "frontend"
+    },
+    "3333": {
+      "label": "backend"
+    }
+  }
+}
